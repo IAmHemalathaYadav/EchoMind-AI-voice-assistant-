@@ -1,0 +1,15 @@
+
+===================EchoMind(AI assistant designed to Reflect intelligence and responsiveness in human-computer interactions===============)
+Task-1 : Calling Time() and Date() ("What is the time")
+Task-2 : To Search Something on Wikipedia (After Speaking "Wikipedia" the particular elif statement becomes true and run the command said by user)
+Task-3 : To open Youtube and Stack Overflow in browser.(After speaking “open YouTube” & “open Stack Overflow” the following sites open in browser
+)
+Task-4 : To Play Music.(After speaking “Play Music” the assistant will automatically play a random song which is in user music directory)
+Task-5 : To search on chrome browser.(After speaking “search on chrome” the assistant will search command given by user or if it can’t get that then it                will say and print “Can’t open now, please try again later”.
+)
+Task-6 : To remember something(After speaking “remember that” the assistant will ask you that “what should I remember then user tell him particular thing now, if user want to know what assistant remember is then the user has to speak “do you remember anything” then our assistant will tell the user what he told to assistant early.
+)
+Task-7 : To take screenshot.(After speaking “take a screenshot” the assistant will take screenshot and let you know it has taken screenshot.
+)
+Task-8 : To make assistant offline.(After speaking “go offline” the assistant will offline and then the program will stop. 
+)
